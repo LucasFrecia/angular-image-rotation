@@ -2,4 +2,4 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-image-rotation)
 
-[View](angular-image-rotation.gif)
+![View](angular-image-rotation.gif)
